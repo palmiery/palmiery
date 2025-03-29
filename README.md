@@ -96,6 +96,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palmiery&layout=compact&theme=radical" />
 </div>
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-
+<div align="center">
+  
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=ff66cc&style=for-the-badge&logo=ghost&logoColor=ffffff)
+</div>
 </p>
