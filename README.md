@@ -11,7 +11,6 @@ Sou o Renato, bacharel em Tecnologia da Informação...
   ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-<hr style="border: 0.5px solid #ccc;"/>
 
 ## 🤖 Inteligência Artificial 🛠️
 
@@ -19,15 +18,11 @@ Sou o Renato, bacharel em Tecnologia da Informação...
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-AE45FF?style=flat&logo=ai&logoColor=white)
 
-<hr style="border: 0.5px solid #ccc;"/>
-
 ## 🖥️ Sistemas Operacionais 💻
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-
-<hr style="border: 0.5px solid #ccc;"/>
 
 ## 🛠️ Mais Ferramentas 🔧
 ### 🧠 IDE & Versionamento 🧠
@@ -54,16 +49,10 @@ Sou o Renato, bacharel em Tecnologia da Informação...
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoftoffice)
 
-
-<hr style="border: 0.5px solid #ccc;"/>
-
 ## 🗣️ Idiomas 📣
 
 ![Português](https://img.shields.io/badge/Português%20(BR)-Nativo-green?style=flat&logo=googletranslate&logoColor=white)
 ![Inglês](https://img.shields.io/badge/Inglês%20(EN)-Básico-blue?style=flat&logo=googletranslate&logoColor=white)
-
-
-<hr style="border: 0.5px solid #ccc;"/>
 
 ## 📈 Estatísticas 📉
 
@@ -73,16 +62,12 @@ Sou o Renato, bacharel em Tecnologia da Informação...
 ![Palmiery Open Issues](https://img.shields.io/github/issues/palmiery/palmiery.github.io?style=flat&logo=github&logoColor=white&label=Issues)  
 ![Palmiery Pull Requests](https://img.shields.io/github/issues-pr/palmiery/palmiery.github.io?style=flat&logo=github&logoColor=white&label=Pull%20Requests)
 
-
-<hr style="border: 0.5px solid #ccc;"/>
-
 ## 🤝🏼 Colaboradores 👥
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=palmiery/palmiery.github.io)
 
 ## 🖥️ Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palmiery&layout=compact&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palmiery&layout=compact&theme=dark)
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
