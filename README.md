@@ -2,8 +2,6 @@
 
 Sou o Renato, bacharel em Tecnologia da Informação...
 
----
-
 ## ✨ Tecnologias 🌟
 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -81,9 +79,6 @@ Sou o Renato, bacharel em Tecnologia da Informação...
 ## 🤝🏼 Colaboradores 👥
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=palmiery/palmiery.github.io)
-
-
----
 
 ## 🖥️ Linguagens Mais Usadas
 
