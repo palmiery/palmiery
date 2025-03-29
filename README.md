@@ -1,7 +1,7 @@
 <p align="center">
 # 🧑🏼‍💻 Bem-vindo(a)!
 
-Sou o Renato, bacharel em Tecnologia da Informação...
+
 
 ## ✨ Tecnologias 🌟
 
@@ -72,5 +72,8 @@ Sou o Renato, bacharel em Tecnologia da Informação...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palmiery&layout=compact&theme=dark)
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
+![Snake animation](https://github.com/palmiery/palmiery/blob/output/github-contribution-grid-snake.svg)
+
 
 </p>
