@@ -82,6 +82,7 @@
 ![Palmiery Pull Requests](https://img.shields.io/github/issues-pr/palmiery/challenge-amigo-secreto_pt-main?style=for-the-badge&logo=github&logoColor=white&label=Pull%20Requests)
 
 <div align="center">
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=palmiery&show_icons=true&hide_title=true&count_private=true&theme=radical)
 </div>
 
