@@ -14,7 +14,7 @@ Sou o Renato, bacharel em Tecnologia da Informação...
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
----
+<hr style="border: 1px solid #ccc;"/>
 
 ## 🤖 Inteligência Artificial 🛠️
 
@@ -22,7 +22,7 @@ Sou o Renato, bacharel em Tecnologia da Informação...
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-AE45FF?style=flat&logo=ai&logoColor=white)
 
----
+<hr style="border: 1px solid #ccc;"/>
 
 ## 🖥️ Sistemas Operacionais 💻
 
@@ -31,7 +31,7 @@ Sou o Renato, bacharel em Tecnologia da Informação...
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 
----
+<hr style="border: 1px solid #ccc;"/>
 
 ## 🛠️ Mais Ferramentas 🔧
 
@@ -60,7 +60,7 @@ Sou o Renato, bacharel em Tecnologia da Informação...
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoftoffice)
 
 
----
+<hr style="border: 1px solid #ccc;"/>
 
 ## 🗣️ Idiomas 📣
 
@@ -68,7 +68,7 @@ Sou o Renato, bacharel em Tecnologia da Informação...
 ![Inglês](https://img.shields.io/badge/Inglês%20(EN)-Básico-blue?style=flat&logo=googletranslate&logoColor=white)
 
 
----
+<hr style="border: 1px solid #ccc;"/>
 
 ## 📈 Estatísticas 📉
 
@@ -79,7 +79,7 @@ Sou o Renato, bacharel em Tecnologia da Informação...
 ![Palmiery Pull Requests](https://img.shields.io/github/issues-pr/palmiery/palmiery.github.io?style=flat&logo=github&logoColor=white&label=Pull%20Requests)
 
 
----
+<hr style="border: 1px solid #ccc;"/>
 
 ## 🤝🏼 Colaboradores 👥
 
