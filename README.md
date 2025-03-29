@@ -111,11 +111,6 @@
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=palmiery&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-
-## 🤝🏼 Colaboradores 👥
-
-![GitHub Contributors Image](https://contrib.rocks/image?repo=palmiery/palmiery.github.io)
-
 ## 🖥️ Linguagens Mais Usadas
 </div>
 
@@ -124,7 +119,11 @@
 </div>
 
 <div align="center">
-  
+
+  ## 🤝🏼 Colaboradores 👥
+
+![GitHub Contributors Image](https://contrib.rocks/image?repo=palmiery/palmiery.github.io)
+
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=ff66cc&style=for-the-badge&logo=ghost&logoColor=ffffff)
 </div>
 </p>
