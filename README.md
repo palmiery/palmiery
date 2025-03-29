@@ -14,7 +14,7 @@ Sou o Renato, bacharel em Tecnologia da Informação...
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
-<hr style="border: 1px solid #ccc;"/>
+<hr style="border: 0.5px solid #ccc;"/>
 
 ## 🤖 Inteligência Artificial 🛠️
 
