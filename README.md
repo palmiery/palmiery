@@ -1,8 +1,8 @@
 <p align="center">
 # 🧑🏼‍💻 Bem-vindo(a)!
-
+<p align="center">
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-
+</p>
 ## ✨ Tecnologias 🌟
 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
