@@ -73,7 +73,10 @@
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-![Snake animation](https://github.com/palmiery/palmiery/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribuições no GitHub
+
+![Snake Animation](https://palmiery.github.io/github-contribution-grid-snake.svg)
+
 
 
 </p>
