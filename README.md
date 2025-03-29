@@ -72,11 +72,12 @@
 
 ## 📈 Estatísticas 📉
 
-![Palmiery Stats](https://img.shields.io/github/stars/palmiery/palmiery.github.io?style=for-the-badge&logo=github&logoColor=white&label=Stars)
-![Palmiery Forks](https://img.shields.io/github/forks/palmiery/palmiery.github.io?style=for-the-badge&logo=github&logoColor=white&label=Forks)
-![Palmiery Commits](https://img.shields.io/github/commits-since/palmiery/palmiery.github.io/latest?style=for-the-badge&logo=github&logoColor=white&label=Commits)
-![Palmiery Open Issues](https://img.shields.io/github/issues/palmiery/palmiery.github.io?style=for-the-badge&logo=github&logoColor=white&label=Issues)
-![Palmiery Pull Requests](https://img.shields.io/github/issues-pr/palmiery/palmiery.github.io?style=for-the-badge&logo=github&logoColor=white&label=Pull%20Requests)
+![Palmiery Stats](https://img.shields.io/github/stars/palmiery/challenge-amigo-secreto_pt-main?style=for-the-badge&logo=github&logoColor=white&label=Stars)
+![Palmiery Forks](https://img.shields.io/github/forks/palmiery/challenge-amigo-secreto_pt-main?style=for-the-badge&logo=github&logoColor=white&label=Forks)
+![Palmiery Commits](https://img.shields.io/github/commits-since/palmiery/challenge-amigo-secreto_pt-main/latest?style=for-the-badge&logo=github&logoColor=white&label=Commits)
+![Palmiery Open Issues](https://img.shields.io/github/issues/palmiery/challenge-amigo-secreto_pt-main?style=for-the-badge&logo=github&logoColor=white&label=Issues)
+![Palmiery Pull Requests](https://img.shields.io/github/issues-pr/palmiery/challenge-amigo-secreto_pt-main?style=for-the-badge&logo=github&logoColor=white&label=Pull%20Requests)
+
 
 ## 🤝🏼 Colaboradores 👥
 
