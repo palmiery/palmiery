@@ -99,5 +99,7 @@
 <div align="center">
   
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=ff66cc&style=for-the-badge&logo=ghost&logoColor=ffffff)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=7CFF00&style=for-the-badge&logo=ghost&logoColor=9B4DFF)
+
 </div>
 </p>
