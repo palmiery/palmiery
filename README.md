@@ -50,33 +50,33 @@
 
 ### 📋 Gestão & Organização 📋
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ### 🎨 Design & Prototipação 🎨
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### 📄 Documentação & Utilitários
 
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat&logo=googleworkspace&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoftoffice)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 ## 🗣️ Idiomas 📣
 
-![Português](https://img.shields.io/badge/Português%20(BR)-Nativo-green?style=flat&logo=googletranslate&logoColor=white)
-![Inglês](https://img.shields.io/badge/Inglês%20(EN)-Básico-blue?style=flat&logo=googletranslate&logoColor=white)
+![Português](https://img.shields.io/badge/Português%20(BR)-Nativo-green?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Inglês](https://img.shields.io/badge/Inglês%20(EN)-Básico-blue?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 ## 📈 Estatísticas 📉
 
-![Palmiery Stats](https://img.shields.io/github/stars/palmiery/palmiery.github.io?style=flat&logo=github&logoColor=white&label=Stars)  
-![Palmiery Forks](https://img.shields.io/github/forks/palmiery/palmiery.github.io?style=flat&logo=github&logoColor=white&label=Forks)  
-![Palmiery Commits](https://img.shields.io/github/commits-since/palmiery/palmiery.github.io/latest?style=flat&logo=github&logoColor=white&label=Commits)  
-![Palmiery Open Issues](https://img.shields.io/github/issues/palmiery/palmiery.github.io?style=flat&logo=github&logoColor=white&label=Issues)  
-![Palmiery Pull Requests](https://img.shields.io/github/issues-pr/palmiery/palmiery.github.io?style=flat&logo=github&logoColor=white&label=Pull%20Requests)
+![Palmiery Stats](https://img.shields.io/github/stars/palmiery/palmiery.github.io?style=for-the-badge&logo=github&logoColor=white&label=Stars)
+![Palmiery Forks](https://img.shields.io/github/forks/palmiery/palmiery.github.io?style=for-the-badge&logo=github&logoColor=white&label=Forks)
+![Palmiery Commits](https://img.shields.io/github/commits-since/palmiery/palmiery.github.io/latest?style=for-the-badge&logo=github&logoColor=white&label=Commits)
+![Palmiery Open Issues](https://img.shields.io/github/issues/palmiery/palmiery.github.io?style=for-the-badge&logo=github&logoColor=white&label=Issues)
+![Palmiery Pull Requests](https://img.shields.io/github/issues-pr/palmiery/palmiery.github.io?style=for-the-badge&logo=github&logoColor=white&label=Pull%20Requests)
 
 ## 🤝🏼 Colaboradores 👥
 
@@ -84,7 +84,8 @@
 
 ## 🖥️ Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palmiery&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palmiery&layout=compact&theme=dark&style=for-the-badge)
+
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
