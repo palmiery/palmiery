@@ -15,26 +15,22 @@ Sou o Renato, bacharel em Tecnologia da Informação...
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 <hr style="border: 0.5px solid #ccc;"/>
-
 ## 🤖 Inteligência Artificial 🛠️
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-AE45FF?style=flat&logo=ai&logoColor=white)
 
-<hr style="border: 1px solid #ccc;"/>
-
+<hr style="border: 0.5px solid #ccc;"/>
 ## 🖥️ Sistemas Operacionais 💻
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
-
-<hr style="border: 1px solid #ccc;"/>
+<hr style="border: 0.5px solid #ccc;"/>
 
 ## 🛠️ Mais Ferramentas 🔧
-
 ### 🧠 IDE & Versionamento 🧠
 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
@@ -60,7 +56,7 @@ Sou o Renato, bacharel em Tecnologia da Informação...
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoftoffice)
 
 
-<hr style="border: 1px solid #ccc;"/>
+<hr style="border: 0.5px solid #ccc;"/>
 
 ## 🗣️ Idiomas 📣
 
@@ -68,7 +64,7 @@ Sou o Renato, bacharel em Tecnologia da Informação...
 ![Inglês](https://img.shields.io/badge/Inglês%20(EN)-Básico-blue?style=flat&logo=googletranslate&logoColor=white)
 
 
-<hr style="border: 1px solid #ccc;"/>
+<hr style="border: 0.5px solid #ccc;"/>
 
 ## 📈 Estatísticas 📉
 
@@ -79,7 +75,7 @@ Sou o Renato, bacharel em Tecnologia da Informação...
 ![Palmiery Pull Requests](https://img.shields.io/github/issues-pr/palmiery/palmiery.github.io?style=flat&logo=github&logoColor=white&label=Pull%20Requests)
 
 
-<hr style="border: 1px solid #ccc;"/>
+<hr style="border: 0.5px solid #ccc;"/>
 
 ## 🤝🏼 Colaboradores 👥
 
@@ -90,4 +86,10 @@ Sou o Renato, bacharel em Tecnologia da Informação...
 
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
+
+## 🖥️ Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palmiery&layout=compact&theme=radical)
+
 
