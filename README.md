@@ -1,8 +1,7 @@
 <p align="center">
-  
-## 
 <div align="center">
- ## ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+  
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 </div>
 
 
@@ -82,7 +81,9 @@
 ![Palmiery Open Issues](https://img.shields.io/github/issues/palmiery/challenge-amigo-secreto_pt-main?style=for-the-badge&logo=github&logoColor=white&label=Issues)
 ![Palmiery Pull Requests](https://img.shields.io/github/issues-pr/palmiery/challenge-amigo-secreto_pt-main?style=for-the-badge&logo=github&logoColor=white&label=Pull%20Requests)
 
+<div align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=palmiery&show_icons=true&hide_title=true&count_private=true&theme=radical)
+</div>
 
 ## 🤝🏼 Colaboradores 👥
 
