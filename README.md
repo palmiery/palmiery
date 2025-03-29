@@ -15,6 +15,7 @@ Sou o Renato, bacharel em Tecnologia da Informação...
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 <hr style="border: 0.5px solid #ccc;"/>
+
 ## 🤖 Inteligência Artificial 🛠️
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
@@ -22,6 +23,7 @@ Sou o Renato, bacharel em Tecnologia da Informação...
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-AE45FF?style=flat&logo=ai&logoColor=white)
 
 <hr style="border: 0.5px solid #ccc;"/>
+
 ## 🖥️ Sistemas Operacionais 💻
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
@@ -84,12 +86,9 @@ Sou o Renato, bacharel em Tecnologia da Informação...
 
 ---
 
-
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-
-
 ## 🖥️ Linguagens Mais Usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palmiery&layout=compact&theme=radical)
 
 
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
