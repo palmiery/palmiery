@@ -4,7 +4,7 @@ Sou o Renato, bacharel em Tecnologia da Informação...
 
 ---
 
-## ✨💡🌟 Tecnologias
+## ✨ Tecnologias 🌟
 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -17,7 +17,7 @@ Sou o Renato, bacharel em Tecnologia da Informação...
 ---
 
 
-## 🤖🛠️🕹️🧞‍♂️ Inteligência Artificial 
+## 🤖 Inteligência Artificial 🛠️
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
@@ -27,7 +27,7 @@ Sou o Renato, bacharel em Tecnologia da Informação...
 ---
 
 
-## 🗔🖥️💻 Sistemas Operacionais
+## 🖥️ Sistemas Operacionais 💻
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white)
@@ -36,20 +36,20 @@ Sou o Renato, bacharel em Tecnologia da Informação...
 
 ---
 
-## 🛠️⚙️🔧 Mais Ferramentas
+## 🛠️ Mais Ferramentas 🔧
 
-### 🧠 IDE & Versionamento
+### 🧠 IDE & Versionamento 🧠
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 
-### 📋 Gestão & Organização
+### 📋 Gestão & Organização 📋
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 
-### 🎨 Design & Prototipação
+### 🎨 Design & Prototipação 🎨
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
@@ -61,7 +61,7 @@ Sou o Renato, bacharel em Tecnologia da Informação...
 
 ---
 
-## 🗣️💬📣 Idiomas
+## 🗣️ Idiomas 📣
 
 ![Português](https://img.shields.io/badge/Português%20(BR)-Nativo-green?style=flat&logo=googletranslate&logoColor=white)
 ![Inglês](https://img.shields.io/badge/Inglês%20(EN)-Básico-blue?style=flat&logo=googletranslate&logoColor=white)
@@ -69,7 +69,7 @@ Sou o Renato, bacharel em Tecnologia da Informação...
 
 ---
 
-## 📈📊📉 Estatísticas
+## 📈 Estatísticas 📉
 
 ![Palmiery Stats](https://img.shields.io/github/stars/palmiery/palmiery.github.io?style=flat&logo=github&logoColor=white&label=Stars)  
 ![Palmiery Forks](https://img.shields.io/github/forks/palmiery/palmiery.github.io?style=flat&logo=github&logoColor=white&label=Forks)  
@@ -80,7 +80,7 @@ Sou o Renato, bacharel em Tecnologia da Informação...
 
 ---
 
-## 🤝🏼👥 Colaboradores
+## 🤝🏼 Colaboradores 👥
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=palmiery/palmiery.github.io)
 
