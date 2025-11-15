@@ -100,7 +100,8 @@
   
 ## 📈 Estatísticas 📉
 
-![Palmiery Stats](https://img.shields.io/github/stars/palmiery/challenge-amigo-secreto_pt-main?style=for-the-badge&logo=github&logoColor=white&label=Stars)
+![Palmiery Top Language](https://img.shields.io/github/languages/top/palmiery/challenge-amigo-secreto_pt-main?style=for-the-badge&logo=java&logoColor=white)
+![Palmiery Stars](https://img.shields.io/github/stars/palmiery/challenge-amigo-secreto_pt-main?style=for-the-badge&logo=github&logoColor=white&label=Stars)
 ![Palmiery Forks](https://img.shields.io/github/forks/palmiery/challenge-amigo-secreto_pt-main?style=for-the-badge&logo=github&logoColor=white&label=Forks)
 ![Palmiery Commits](https://img.shields.io/github/commits-since/palmiery/challenge-amigo-secreto_pt-main/latest?style=for-the-badge&logo=github&logoColor=white&label=Commits)
 ![Palmiery Open Issues](https://img.shields.io/github/issues/palmiery/challenge-amigo-secreto_pt-main?style=for-the-badge&logo=github&logoColor=white&label=Issues)
