@@ -113,7 +113,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=palmiery&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ## 🖥️ Linguagens Mais Usadas
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palmiery&layout=compact&theme=radical" />
