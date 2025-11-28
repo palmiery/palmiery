@@ -123,9 +123,9 @@
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=palmiery&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palmiery&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+### 💻 Linguagens Usadas
 
-## 🖥️ Linguagens Mais Usadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palmiery&layout=compact&theme=radical&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palmiery&layout=compact&theme=radical" />
