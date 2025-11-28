@@ -127,6 +127,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palmiery&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=palmiery&color=blue" alt="Profile views" /> 
 </p>
