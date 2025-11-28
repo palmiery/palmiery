@@ -128,7 +128,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-<p align="left"> 
+<p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=palmiery&color=blue" alt="Profile views" /> 
 </p>
 
