@@ -24,7 +24,7 @@
 
 ## Certificações
 <p align="center">
-    <a href="[LINK_DE_VERIFICAÇÃO_PÚBLICA_DA_CERTIFICAÇÃO](https://catalog-education.oracle.com/ords/certview/sharebadge?id=897249339F3187264A94DBE8CA461499835BEBC07611521D0B7853950963179D)">
+    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=897249339F3187264A94DBE8CA461499835BEBC07611521D0B7853950963179D">
         <img src="https://images.credly.com/images/2db0e84e-e6ee-42d3-88ba-90b9a295c52c/OCI25FNDCFAV1_cached_image_20251128-32-owuepu.png" 
              alt="Oracle Certified Foundations Associate" 
              width="150" 
