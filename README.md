@@ -21,6 +21,9 @@
 </picture>
 
 <div align="center">
+
+## Certificações
+[![Oracle Certified Foundations Associate](https://www.credly.com/users/renato-palmiery-da-silva-campos)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=897249339F3187264A94DBE8CA461499835BEBC07611521D0B7853950963179D)
   
 ## ✨ Tecnologias 🌟
 
