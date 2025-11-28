@@ -119,31 +119,6 @@
 ![Palmiery Pull Requests](https://img.shields.io/github/issues-pr/palmiery/challenge-amigo-secreto_pt-main?style=for-the-badge&logo=github&logoColor=white&label=Pull%20Requests)
 </div>
 
-### 💻 Projetos em Destaque
-
-<p align="center">
-  <a href="https://github.com/palmiery/Qualifica-SP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=palmiery&repo=Qualifica-SP&theme=dark"
-         alt="Repositório Qualifica-SP"
-         width="400" 
-         style="margin: 10px;">
-  </a>
-  
-  <a href="https://github.com/palmiery/freelancer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=palmiery&repo=freelancer&theme=dark"
-         alt="Repositório Freelancer"
-         width="400" 
-         style="margin: 10px;">
-  </a>
-
-  <a href="https://github.com/palmiery/challenge-amigo-secreto_pt-main">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=palmiery&repo=challenge-amigo-secreto_pt-main&theme=dark"
-         alt="Repositório Amigo Secreto"
-         width="400" 
-         style="margin: 10px;">
-  </a>
-</p>
-
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=palmiery&show_icons=true&hide_title=true&count_private=true&theme=radical)
