@@ -107,10 +107,8 @@
 ![Inglês](https://img.shields.io/badge/Inglês%20(EN)-Básico-blue?style=for-the-badge&logo=googletranslate&logoColor=white)
 </div>
 
-<div align="center">
-  <h3>💻 Foco de Desenvolvimento</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palmiery&layout=compact&theme=dark&hide=html,css" alt="Top Langs" />
-</div>
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?palmiery=UTILIZADOR&layout=compact&theme=dracula)
+
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=palmiery&color=blue" alt="Profile views" /> 
