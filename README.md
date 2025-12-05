@@ -108,9 +108,10 @@
 </div>
 
 <div align="center">
-  
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=palmiery&layout=compact&theme=dracula)
-
+  <a href="https://github.com/palmiery/Battleship">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=palmiery&repo=Battleship&theme=dracula" />
+  </a>
+</div>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=palmiery&color=blue" alt="Profile views" /> 
