@@ -107,7 +107,8 @@
 ![Inglês](https://img.shields.io/badge/Inglês%20(EN)-Básico-blue?style=for-the-badge&logo=googletranslate&logoColor=white)
 </div>
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?palmiery=UTILIZADOR&layout=compact&theme=dracula)
+<div align="center">
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=palmiery&layout=compact&theme=dracula)
 
 
 <p align="center"> 
