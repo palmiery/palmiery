@@ -114,7 +114,7 @@
 ### 💻 Linguagens Usadas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palmiery&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palmiery&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
 </div>
 
 <div align="center">
