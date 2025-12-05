@@ -107,12 +107,6 @@
 ![Inglês](https://img.shields.io/badge/Inglês%20(EN)-Básico-blue?style=for-the-badge&logo=googletranslate&logoColor=white)
 </div>
 
-<div align="center">
-  <a href="https://github.com/palmiery/Battleship">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=palmiery&repo=Battleship&theme=dracula" />
-  </a>
-</div>
-
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=palmiery&color=blue" alt="Profile views" /> 
 </p>
