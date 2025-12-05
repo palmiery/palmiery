@@ -108,6 +108,7 @@
 </div>
 
 <div align="center">
+  
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=palmiery&layout=compact&theme=dracula)
 
 
