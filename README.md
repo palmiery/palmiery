@@ -108,11 +108,8 @@
 </div>
 
 <div align="center">
-
-
-<div align="center">
-  <h3>📊 Estatísticas de Linguagens</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palmiery&theme=dracula&hide_progress=false" alt="Top Langs" />
+  <h3>💻 Foco de Desenvolvimento</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palmiery&layout=compact&theme=dark&hide=html,css" alt="Top Langs" />
 </div>
 
 <p align="center"> 
