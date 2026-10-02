@@ -25,11 +25,14 @@
 ## ☁️ Certificações ☁️
 <p align="center">
     <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=897249339F3187264A94DBE8CA461499835BEBC07611521D0B7853950963179D">
-        <img src="https://images.credly.com/images/2db0e84e-e6ee-42d3-88ba-90b9a295c52c/OCI25FNDCFAV1_cached_image_20251128-32-owuepu.png" 
-             alt="Oracle Certified Foundations Associate" 
-             width="150" 
-             height="150" 
-             style="vertical-align:top">
+        <img src="https://images.credly.com/images/2db0e84e-e6ee-42d3-88ba-90b9a295c52c/OCI25FNDCFAV1_cached_image_20251128-32-owuepu.png"
+             alt="Oracle Certified Foundations Associate"
+             width="150">
+    </a>
+    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=2C81A5434886EED04228E251D5A10B6174573630C5749A5D24E82257A8339B3D">
+        <img src="./assets/OCI26AICFA1.png"
+             alt="Oracle Certified Foundations Associate - Oracle Cloud Infrastructure AI"
+             width="150">
     </a>
 </p>
   
